@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "This is a weatherapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakithya",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
